@@ -1,0 +1,5 @@
+Origin: . xenial
+Label: . xenial
+Archive: xenial
+Architecture: amd64
+Component: main
