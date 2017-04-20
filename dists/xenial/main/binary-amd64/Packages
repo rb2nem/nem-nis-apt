@@ -1,16 +1,16 @@
 Package: nem-nis
 Priority: extra
 Section: default
-Installed-Size: 41055
+Installed-Size: 41056
 Maintainer: <@3a89ad249efe>
 Architecture: amd64
-Version: 0.6.84
+Version: 0.6.87
 Depends: openjdk-8-jre-headless
-Filename: pool/main/n/nem-nis/nem-nis_0.6.84_amd64.deb
-Size: 32232780
-MD5sum: b7913d3dbc057c17bf23319840abc5a7
-SHA1: cdcc39181d8edca3f5c25143d2b0a377a82d0470
-SHA256: f4abb7b83773dcc7983c0aa579e66ba07d74166466ea694cb0743fccff52ec52
+Filename: pool/main/n/nem-nis/nem-nis_0.6.87_amd64.deb
+Size: 32236708
+MD5sum: 64ed02b9439dcea783193ce6e1433f91
+SHA1: 9ea1a30c07270cb286f58979d00bfbaa6ed26cc5
+SHA256: 24982330fe319dd9ffcb3d49cf0e2af27fa7f5c5ab871b252de743b82b7d7baa
 Description: NEM Infrastructure server
 Vendor: @3a89ad249efe
 License: unknown
